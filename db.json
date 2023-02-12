@@ -1,0 +1,24 @@
+{
+  "products" : [
+    {"id":1,"name":"Collared peccary","category":"Violet"},
+    {"id":2,"name":"Glider, squirrel","category":"Red"},
+    {"id":3,"name":"Gull, dusky","category":"Indigo"},
+    {"id":4,"name":"Flying fox (unidentified)","category":"Turquoise"},
+    {"id":5,"name":"Lizard, mexican beaded","category":"Khaki"},
+    {"id":6,"name":"Common palm civet","category":"Orange"},
+    {"id":7,"name":"Australian spiny anteater","category":"Yellow"},
+    {"id":8,"name":"Mynah, common","category":"Blue"},
+    {"id":9,"name":"Blue duck","category":"Yellow"},
+    {"id":10,"name":"Ringtail, common","category":"Aquamarine"},
+    {"id":11,"name":"Painted stork","category":"Aquamarine"},
+    {"id":12,"name":"Two-banded monitor","category":"Blue"},
+    {"id":13,"name":"Ant (unidentified)","category":"Blue"},
+    {"id":14,"name":"Deer, barasingha","category":"Goldenrod"},
+    {"id":15,"name":"Greater flamingo","category":"Green"},
+    {"id":16,"name":"Common raccoon","category":"Red"},
+    {"id":17,"name":"Hyena, spotted","category":"Goldenrod"},
+    {"id":18,"name":"Baboon, savanna","category":"Fuscia"},
+    {"id":19,"name":"Black vulture","category":"Goldenrod"},
+    {"id":20,"name":"Argalis","category":"Fuscia"}
+  ]
+}
